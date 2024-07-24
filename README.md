@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jackhconnolly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackhconnolly" height="30" width="40" /></a>
 <a href="https://fb.com/jack.connolly.90226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jack.connolly.90226" height="30" width="40" /></a>
-<a href="https://instagram.com/jack.c2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jack.c2016" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
