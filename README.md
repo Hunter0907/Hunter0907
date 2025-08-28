@@ -1,10 +1,21 @@
 <h1 align="left">Hi 👋, My name is Jack Connolly</h1>
 
-<h2 align="left">Data Science & Analytics Student studying at University College Cork</h2>
-<h4 align = "left">Hi my name is Jack Connolly. I'm a Data Science & Analytics student at University College Cork. My favourite language is <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"></h4>
+<h2 align="left">IT Graduate - Data Modelling in the IT D&A Team in PepsiCo</h2>
+<p4 align = "left">Hi my name is Jack Connolly. I'm an IT Graduate - Data Modelling in the IT D&A Team in PepsiCo.</p4>
+<p4>Administer and support the Office platform for the Data & Analytics (D&A) team, including managing access requests, maintaining documentation, troubleshooting technical issues, and providing end-user support.
+
+Perform report testing and validation to ensure data accuracy, consistency, and performance.
+
+Lead project management initiatives for the D&A team: organize and facilitate daily stand-ups, resolve blockers, track progress, and drive delivery using Agile methodologies.
+
+Facilitate onboarding of new joiners to all necessary systems across PepsiCo, ensuring seamless access and setup.
+
+Manage and implement security changes in reporting roles, maintaining compliance with access control policies and data governance standards.
+</p4>
+<h4 align = "left">I studied Data Science & Analytics student at University College Cork. My favourite language is <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"></h4> 
 
 - 🌱 I’m currently learning **Power BI**
-- 📫 How to reach me **Personal: jack.connolly@live.ie or University: 123079566@umail.ucc.ie**
+- 📫 How to reach me: jack.connolly@live.ie
 - ⚡ Fun fact **I have 2 Gold National Karate Medals and I am a purple belt.**
 
 <h3 align="left">Connect with me:</h3>
