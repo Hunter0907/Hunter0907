@@ -98,7 +98,11 @@ Supervised by **Professor Gregory Provan** at UCC. This project deepened my unde
   <a href="https://fb.com/jack.connolly.90226" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
-  &nbsp;📧 <a href="mailto:jack.connolly@live.ie">jack.connolly@live.ie</a>
+  <a href="mailto:jack.connolly@live.ie" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftoutlook.svg" alt="Email" height="30" width="40"/>
+</a>
+
+
 </p>
 
 ---
